@@ -4,4 +4,3 @@ const logDriverNames = function (drivers){
     console.log(element.name);
   });
 }
-  
